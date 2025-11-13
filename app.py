@@ -1142,13 +1142,12 @@ with main_col:
     # FOOTER (PERSISTENT ACROSS TABS)
     st.markdown("""
     <div class="footer-bar">
-        DATA SCIENCE & ANALYTICS PORTFOLIO
+        PROJECT MANAGEMENT & OPERATIONS SPECIALIST PORTFOLIO
     </div>
     """, unsafe_allow_html=True)
 
     st.markdown("""
     <div class="target-role">
-        <strong>Target Roles:</strong> Data Scientist | Analytics Engineer | Business Intelligence Analyst<br>
-        <strong>Relevant Companies:</strong> Tech | SaaS | Finance | Healthcare | E-commerce
+        <strong>Target Roles:</strong> Project Manager | Operations Specialist | Program Lead<br>
     </div>
     """, unsafe_allow_html=True)
