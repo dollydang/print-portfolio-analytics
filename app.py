@@ -511,16 +511,16 @@ with sidebar_col:
     st.markdown("""
     <div class="contact-info">
         <strong>Portfolio Project by: </strong><br>
-        <strong>Noah Gallagher</strong><br>
-        noahgallagher1@gmail.com<br>
+        <strong>Dolly Dang</strong><br>
+        dolly.u.dang@gmail.com<br>
         <br>
-        <a href="mailto:noahgallagher1@gmail.com?subject=Sprint%20Analytics%20Dashboard%20Inquiry" class="contact-button">
+        <a href="mailto:dolly.u.dang@gmail.com?subject=Sprint%20Analytics%20Dashboard%20Inquiry" class="contact-button">
             📧 Contact Me
         </a>
-        <a href="https://www.linkedin.com/in/noahgallagher/" target="_blank" rel="noopener noreferrer" class="linkedin-button">
+        <a href="https://www.linkedin.com/in/dollydang/" target="_blank" rel="noopener noreferrer" class="linkedin-button">
             💼 LinkedIn
         </a>
-        <a href="https://github.com/noahgallagher1/sprint-portfolio-analytics" target="_blank" rel="noopener noreferrer" class="github-button">
+        <a href="hhttps://github.com/dollydang/sprint-portfolio-analytics" target="_blank" rel="noopener noreferrer" class="github-button">
             🐙 GitHub
         </a>
     </div>
